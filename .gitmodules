@@ -1,0 +1,4 @@
+[submodule "perf/openshift-ansible"]
+	path = perf/openshift-ansible
+	url = https://github.com/rdo-infra/openshift-ansible
+	branch = rdo-3.7
